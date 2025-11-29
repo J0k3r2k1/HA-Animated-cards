@@ -19,6 +19,8 @@
 
 Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
 
+This [YouTube Video](https://youtu.be/5vYz37AqSO4) explains how to do it.
+
 <hr>
 
 ![ezgif-8e9c11636a22c613](https://github.com/user-attachments/assets/4f5a1af0-d89b-4ed9-9c8c-36e678045580)
